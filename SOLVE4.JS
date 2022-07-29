@@ -13,5 +13,5 @@ if(num1 > num2 && num1 > num3){
     window.alert(num3 + " is largest among the three number.")
 }
 
-// display the result
+// display the result here so user can see
 console.log("The largest number is " + largest);
